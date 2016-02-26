@@ -1,3 +1,5 @@
+![alt tag](https://angularjs.org/img/AngularJS-large.png)
+
 # AngularOnePageApp
 One Page Application using AngularJS - 
 
